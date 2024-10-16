@@ -11,6 +11,11 @@ For innovative teams, however, 2FA can sometimes become an unnecessary barrier. 
 Moreover, enforcing individual accounts, rather than shared ones, provides a clearer view of who accessed what, and when, through distinct login records. This approach not only enhances security but also supports efficient workflows, allowing innovative teams to operate flexibly and effectively without the friction caused by account-sharing restrictions.
 
 #
+### Local Security
+
+Companies like Microsoft utilize Two-Factor Authentication (2FA) policies that tie access to a single local phone number, enabling easy verification for in-office team members while effectively preventing remote employees from logging in. By linking account access to a specific, shared local device, companies ensure that only those physically present can complete the 2FA process, thus blocking remote workers who may otherwise attempt to access the account from various locations. This approach restricts usage to local teams, maintaining tighter control over access and discouraging multiple remote users from utilizing the same account, but it can also limit flexibility for remote teams and hinder efficient collaboration across different locations.
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
